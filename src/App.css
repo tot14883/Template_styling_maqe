@@ -1,0 +1,35 @@
+
+.container{
+  padding: 18px;
+}
+
+.h1{
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.text-red{
+  color:red;
+}
+.text-gray-16{
+  font-size: 16px;
+  color:#747474;
+}
+
+
+.text-center{
+  text-align: center;
+}
+
+.mt-2{
+  margin-top: 12px;
+}
+
+.card_border{
+  border: 1px solid #c7c7c7c7;
+}
+
+.text-14{
+  font-size: 14px;
+  color:#747474;
+}
